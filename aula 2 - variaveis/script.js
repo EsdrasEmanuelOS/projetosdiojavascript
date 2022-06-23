@@ -74,27 +74,28 @@ console.log(potenciacao);*/
 
  // operadores relacionais
  /*
- // > maior que;
+ > maior que;
  var maiorQue = 5 > 2;
  console.log(maiorQue);
- // < menor que;
+ < menor que;
  var menorQue = 5 < 2;
  console.log(menorQue);
- // >= maior ou igual a;
+ >= maior ou igual a;
  var maiorOuIgual = 10 >= 10;
  console.log(maiorOuIgual);
- // <= menor ou igual a ;
+ <= menor ou igual a ;
  var menorOuIgual = 10 <= 5;
  console.log(menorOuIgual);*/
 
  // operadores Logicos
 /*
-//  && "e" considera que todos os valores sejam verdadeiros;
+ && "e" considera que todos os valores sejam verdadeiros;
 var E = true && false;
 console.log(E);
-//  || "ou"considera que qualquer valor seja verdeiro;
+  || "ou"considera que qualquer valor seja verdeiro;
 var Ou = true || true;
 console.log(Ou);
-//  ! "não" inverte o valor de verdadeiro pra falso e vice-versa;
+ ! "não" inverte o valor de verdadeiro pra falso e vice-versa;
 var Nao = !true;
-console.log(Nao);*/
+console.log(Nao);
+ != "diferente" sinal de diferente ou não igual*/
